@@ -1,0 +1,17 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-playwright.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.23.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "path": "^0.12.7"
+  }
+}
