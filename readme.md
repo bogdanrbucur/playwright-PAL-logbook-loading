@@ -10,5 +10,5 @@ Prerequisites:
 
   run `npm i` in the script folder
 
-- Rename .`env.example` to `.env` and update PAL URL, test user and password. Make sure user has access to Voyage module
-- run `npx playwright test --headed` to run all tests in /tests
+- Rename `.env.example` to `.env` and update PAL URL, test user and password. Make sure user has access to Voyage module
+- run `npx playwright test --headed` to run all tests in /tests. Exclude `--headed` to run headless
